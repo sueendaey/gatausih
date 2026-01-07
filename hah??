@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>gatau judulnyaa</title>
+  <style>
+        body {
+        font-family: Montserrat;
+        text-align: center;
+        }
+        h1 {
+        font-size: 300px
+        }
+        p {
+        font-size: 100px
+        }
+  </style>
+</head>
+<body>
+  <h1>sunday</h1>
+  <p>pinjam dulu 100</p>
+</body>
+</html>
